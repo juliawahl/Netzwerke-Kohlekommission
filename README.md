@@ -1,5 +1,7 @@
 # Netzwerke-Kohlekommission
+
 # Codebuch:
+
 
 # Edgelist:
 
@@ -9,6 +11,7 @@
 -	ID Mitglied der Kommission
 # to
 -	alle Mitgliedschaften der Person
+
 
 
 # Nodelist: 
